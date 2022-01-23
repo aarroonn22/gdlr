@@ -1,0 +1,1 @@
+This folder contains some miscellaneous files containing functions to provide metrics and quality checks for the main module.

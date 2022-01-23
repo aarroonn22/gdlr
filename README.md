@@ -1,0 +1,2 @@
+A simple linear regression module based on gradient descent.
+The idea and execution is based on an article called ‘Linear Regression Tutorial Using Gradient Descent for Machine Learning’ on [Machine Learning Mastery](https://machinelearningmastery.com/linear-regression-tutorial-using-gradient-descent-for-machine-learning/).
